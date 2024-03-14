@@ -1,4 +1,2 @@
 # PP
-💖🥰**pepe**💗😍
-
-efectiv mi-a disparut lab 9 si nuj unde e!! :,((
+Laboratoare și temele de la PP, folosind câte puțin din Java (Maven, Graal), Kotlin, Python.
